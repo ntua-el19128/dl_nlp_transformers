@@ -4,7 +4,7 @@ The project focuses on fine-tuning pretrained transformer models for text classi
 
 ---
 
-## \ Project Overview
+## Project Overview
 
 The goal is to apply **transfer learning** in the field of **Natural Language Processing (NLP)** by:
 
@@ -24,13 +24,13 @@ The goal is to apply **transfer learning** in the field of **Natural Language Pr
 
 ---
 
-## 📁 Files
+## Files
 
 - `dl_nlp_transformers.ipynb` – Contains model fine-tuning, training, evaluation, and conclusions.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repo:
    ```bash
